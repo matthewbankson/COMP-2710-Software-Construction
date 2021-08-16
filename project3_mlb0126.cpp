@@ -1,11 +1,6 @@
 //Matthew Bankson (mlb0126)
 //project3_mlb0126.cpp
 //How to compile: g++ project3_mlb0126.cpp
-//
-//Received help from handout given in class,
-//questions on piazza, and I googled methods for
-//the vector data structure to find "push_back()"
-//Here is the url: http://www.cplusplus.com/reference/vector/vector/
 
 #include <fstream>
 #include <iostream>
