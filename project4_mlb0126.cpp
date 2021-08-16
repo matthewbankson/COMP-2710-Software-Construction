@@ -1,13 +1,6 @@
 //Matthew Bankson (mlb0126)
 //project4_mlb0126.cpp
 //How to compile: g++ project4_mlb0126.cpp
-//
-//Received help from project briefing on canvas,
-//questions on piazza, and I googled the getline()
-//method to better understand how to use it, and
-//googled how to add a node to the front of a list.
-//Here are the urls: https://stackoverflow.com/questions/12691316/getline-does-not-work-if-used-after-some-inputs
-//https://codeforwin.org/2015/09/c-program-to-insert-node-at-beginning-of-singly-linked-list.html
 
 #include <iostream>
 #include <string>
