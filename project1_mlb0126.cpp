@@ -1,8 +1,6 @@
 //Matthew Bankson (mlb0126)
 //project1_mlb0126.cpp
 //How to compile: g++ project1_mlb0126.cpp
-//Only help received was the handout given in class
-//with Dr. Li's solution pattern.
 
 #include <iostream>
 using namespace std;
