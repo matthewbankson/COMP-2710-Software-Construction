@@ -1,9 +1,6 @@
 //Matthew Bankson (mlb0126)
 //project2_mlb0126.cpp
 //How to compile: g++ project2_mlb0126.cpp
-//Received help from the handout given
-//in class and from the questions asked
-//on Piazza.
 
 #include <iostream>
 #include <stdlib.h>
